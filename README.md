@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romeand
-- 👀 I’m interested in getting into code.
-- 🌱 I’m currently learning the basics and want to go down the frontend path before delving into fullstack.
+- 👀 I’m interested in getting into coding.
+- 🌱 I’m currently learning Html basics, and some data analysis Python.Eventually want to go down the frontend path before delving into fullstack.
 - 💞️ I’m looking to collaborate on any interesting projects 
 - 📫 How to reach me at tw @rome_and
 
