@@ -9,6 +9,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romeand&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romeand/romeand/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romeand/romeand/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/romeand/romeand/output/github-snake.svg" />
+</picture>
+
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/XDMkDDvrXj3ck/giphy.gif?cid=790b76114xtbzv8vn3l9qfe06uk5uo8kexnwbl9hnluclq4p&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
