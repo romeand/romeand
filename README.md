@@ -1,5 +1,5 @@
 <img src="andygit.png" alt="GitHub Banner" width="100%" />
-<h2 align="left">👋👨‍💻 Hello World!, I’m @romeand<br>I'm into tech and started coding just before the machines gained consciousness. I'm excited to develop as a Data Analyst and work in tech professionally. <br><br>🌱 Im about to finish my Data Analytics Bootcamp at TripleTen 💻  where I’ve learned <br>Python,  Pandas 📘, NumPy, SQL, API web Testing, Matplotlib, Seaborn, Plotly.<br><br>I would love to keep working Data Analytics as I develop more skills in web dev to be able to launch my own apps.<br><br>📫 Wanna chat? https://www.linkedin.com/in/andressaldivarda<br><br>📧 andres.saldivar@gmail.com</h2>
+<h2 align="left">👋👨‍💻 Hello World!, I’m @romeand<br>I'm into tech and started coding just before the machines gained consciousness. I'm excited to develop as a Data Analyst and work in tech professionally. <br><br>🌱 I recently finished my Data Analytics Bootcamp at TripleTen 💻  where I learned <br>Python,  Pandas 📘, NumPy, SQL, API web Testing, Matplotlib, Seaborn, Plotly.<br><br>I would love to keep working in Data Analytics as I develop more skills in web dev and backend to be able to launch my own apps.<br><br>📫 Wanna chat? https://www.linkedin.com/in/andressaldivarda<br><br>📧 andres.saldivar@gmail.com</h2>
 
 ###
 
